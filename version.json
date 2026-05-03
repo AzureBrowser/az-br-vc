@@ -1,6 +1,8 @@
 {
   "version": "1.0.1",
-  "downloadUrl": "https://github.com/AzureBrowser/az-br-vc/releases/download/v1.0.1/AzureBrowserSetup.exe",
-  "pageUrl": "https://github.com/AzureBrowser/az-br-vc/releases/latest",
-  "notes": "Bug fixes, theme updates, and updater improvements."
+  "title": "Azure Browser 1.0.1",
+  "notes": "Bug fixes, UI polish, theme/autofill fixes, and updater support.",
+  "downloadUrl": "https://raw.githubusercontent.com/AzureBrowser/az-br-vc/main/AzureBrowserSetup.exe",
+  "pageUrl": "https://github.com/AzureBrowser/az-br-vc/releases/tag/v1.0.1",
+  "publishedAt": "2026-05-03"
 }
