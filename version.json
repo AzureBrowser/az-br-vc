@@ -1,8 +1,6 @@
 {
-  "version": "1.0.2",
-  "title": "Azure Browser 1.0.2",
-  "notes": "Bug fixes, UI polish, dark theme, size settings, ad blocker improvements, and updater support.",
+  "version": "1.0.1",
   "downloadUrl": "https://github.com/AzureBrowser/az-br-vc/releases/download/v1.0.1/AzureBrowserSetup.exe",
-  "portableUrl": "https://github.com/AzureBrowser/az-br-vc/releases/download/v1.0.1/AzureBrowser.exe",
-  "publishedAt": "2026-05-02"
+  "pageUrl": "https://github.com/AzureBrowser/az-br-vc/releases/latest",
+  "notes": "Bug fixes, theme updates, and updater improvements."
 }
